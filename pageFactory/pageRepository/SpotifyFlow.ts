@@ -1,10 +1,7 @@
 import { expect } from "@playwright/test";
 
 
-
-
-
-var token = ""
+var token = "BQDlPy9DISQietf-8UupkHLpA1zxuHDY91vaPDQOOUrQ3Nk60lYs4YWirpUvLjw5y-QhxBzE6VbvzGd9xfs3w03HQB8GJo0OeiWP3teyrBH4WET8c639Ce5Gp0702KgYcDEdjBe77_X1wb3sW_Gxf_wsspd-4bgLIgSWisCicNdAEovrHTOLIxw_ODsRcIhweujfalZeN7p2-TUIEKZ38-NIRPwLy4Zx2tY85G4tpeyJtVET1NfgNHs8Y0QUZSGPVpCwHkB-F9D8LQ"
 const baseUrl = 'https://api.spotify.com/v1/';
 var endpointUrl = ""
 const user_id = '31glf5darbrb3n7yzrcozxj2miiu'
@@ -21,16 +18,16 @@ export class SpotifyFlow {
     constructor() { }
 
 
-    async createSpotifyPlayList(playwright): Promise<void> {
+    async createSpotifyPlayList(playwright) {
         endpointUrl = "users/"
         const url = baseUrl + endpointUrl + user_id + '/playlists'
         const apiContext = await playwright.request.newContext();
         const createPlayListResponse = await apiContext.post(url, {
             data: {
                 "name": "Oyawin Songs",
-                "public": "false", // Set to true if you want the playlist to be public
-                "collaborative": "true", // Set to true if you want the playlist to be collaborative
-                "description": "This is my awesome playlist!" // Optional playlist description
+                "public": "false", 
+                "collaborative": "true", 
+                "description": "This is my awesome playlist!" 
             },
             headers: {
                 'Authorization': 'Bearer ' + token
@@ -113,10 +110,9 @@ export class SpotifyFlow {
 
     }
 
-    async add4RandomSongsIntoPlayList(playwright): Promise<void> {
+   async  add4RandomSongsIntoPlayList(playwright): Promise<void> {
         uriList
         endpointUrl = "playlists/"
-        const uris = "?uris=spotify:track:3nDstVXtr6xbCZKs5Ka2rZ"
         const url = baseUrl + endpointUrl + playlistID + '/tracks'
         const apiContext = await playwright.request.newContext();
         const addSongPlayList = await apiContext.post(url, {
@@ -188,6 +184,7 @@ export class SpotifyFlow {
             },
 
         });
+        const resBody = JSON.parse(await deletePlayListResponse.text())
         expect(deletePlayListResponse.status()).toBe(200)
         expect(deletePlayListResponse.ok()).toBeTruthy();
     }

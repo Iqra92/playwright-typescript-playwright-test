@@ -166,3 +166,10 @@ Answer:
 10-Performance and stability
 
 These 10 test cases cover a wide range of crucial features and functionalities of Spotify, allowing you to identify any major issues or bugs within limited testing time.
+
+For Runing test cases of Spotify and wants to see results of spotify API's:
+Credentail
+Username : iqra_92@hotmail.co.uk
+Password : Testing@12345
+Needed the access token of Spotify. (Postman collection is added just import it and get the token and paste on var token variable in SpotifyApiFlow.test.ts)
+

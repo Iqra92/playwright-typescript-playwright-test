@@ -64,3 +64,159 @@
 {"level":"info","message":"Executing Step : Click on Login button in Main page"}
 {"level":"info","message":"Executing Step : Login to Trello application"}
 {"level":"info","message":"Test Case Completed : @Test Cases: API- UI Test Automation Case for Trello Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : timedOut"}
+{"level":"error","message":"\u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m200\u001b[39m\nReceived: \u001b[31m404\u001b[39m\n\n\u001b[31mFailed worker ran 1 test:\u001b[39m\n[Chromium] › tests\\api\\SpotifyAPIFlow.test.ts:5:5 › @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : passed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : passed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : passed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : timedOut"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : passed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Search for the song named “Bohemian Rhapsody”"}
+{"level":"info","message":"Executing Step : Search 4 random songs, Add to the list"}
+{"level":"info","message":"Executing Step : Add 4 random songs to the playlist"}
+{"level":"info","message":"Executing Step : Delete 2 random songs from playlist"}
+{"level":"info","message":"Executing Step : Delete whole list"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : passed"}

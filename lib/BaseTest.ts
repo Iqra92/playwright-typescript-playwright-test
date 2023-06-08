@@ -5,6 +5,7 @@ import { CreateWorkspacePage } from '@pages/CreateWorkspacePage';
 import { APIActions } from './APIActions';
 import { AddCardPage } from '@pages/AddCardPage';
 import { SetLabelCard } from '@pages/SetLabelToCard';
+import { SpotifyFlow } from '@pages/SpotifyFlow';
 
 
 
@@ -15,6 +16,7 @@ const test = baseTest.extend<{
     createWorkspacePage: CreateWorkspacePage;
     addCardPage: AddCardPage;
     setlabelcard: SetLabelCard;
+    spotifyFlow: SpotifyFlow
    
 }>({
     webActions: async ({ page, context }, use) => {
@@ -35,6 +37,9 @@ const test = baseTest.extend<{
         await use(new SetLabelCard(page, context));
     },
 
+    spotifyFlow: async ({ page, context }, use) => {
+        await use(new SpotifyFlow());
+    },
 
 })
 
