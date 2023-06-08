@@ -1,0 +1,66 @@
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Get Auth Token"}
+{"level":"info","message":"Executing Step : Get Auth Token"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Get Auth Token"}
+{"level":"info","message":"Executing Step : Get Auth Token"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : passed"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : passed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Get Auth Token"}
+{"level":"info","message":"Executing Step : Get Auth Token"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Get Auth Token"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : passed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Get Auth Token"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Get Auth Token"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Get Auth Token"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Get Auth Token"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API Test Automation Case for Spotify"}
+{"level":"info","message":"Executing Step : Create a play list named “Oyawin Songs”"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API Test Automation Case for Spotify Status : failed"}
+{"level":"info","message":"Test Case Started : @Test Cases: API- UI Test Automation Case for Trello"}
+{"level":"info","message":"Executing Step : Navigate to Application"}
+{"level":"info","message":"Executing Step : Click on Login button in Main page"}
+{"level":"info","message":"Executing Step : Login to Trello application"}
+{"level":"info","message":"Executing Step : Login to Trello application Success"}
+{"level":"info","message":"Executing Step : Click For Add Workspace"}
+{"level":"info","message":"Executing Step : Add Workspace Name"}
+{"level":"info","message":"Executing Step : add Workspace Type"}
+{"level":"info","message":"Executing Step : Click to Submit Button"}
+{"level":"info","message":"Executing Step : Creating a new trello board"}
+{"level":"info","message":"Executing Step : Creating a new card on the board."}
+{"level":"info","message":"Test Case Completed : @Test Cases: API- UI Test Automation Case for Trello Status : interrupted"}
+{"level":"info","message":"Test Case Started : @Test Cases: API- UI Test Automation Case for Trello"}
+{"level":"info","message":"Executing Step : Navigate to Application"}
+{"level":"info","message":"Executing Step : Click on Login button in Main page"}
+{"level":"info","message":"Executing Step : Login to Trello application"}
+{"level":"info","message":"Executing Step : Login to Trello application Success"}
+{"level":"info","message":"Executing Step : Click For Add Workspace"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API- UI Test Automation Case for Trello Status : interrupted"}
+{"level":"info","message":"Test Case Started : @Test Cases: API- UI Test Automation Case for Trello"}
+{"level":"info","message":"Executing Step : Navigate to Application"}
+{"level":"info","message":"Executing Step : Click on Login button in Main page"}
+{"level":"info","message":"Executing Step : Login to Trello application"}
+{"level":"info","message":"Test Case Completed : @Test Cases: API- UI Test Automation Case for Trello Status : failed"}
