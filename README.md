@@ -21,6 +21,7 @@ Top Features:
 - Supports Serial and Parallel execution.
 - Allure/HTML Reports are generated after execution with an option to capture screenshot/video/trace file on failure.
 - Nonetheless Support from Microsoft so FREQUENT RELEASES and turn arounf time for any queries is 48 hours.
+- Use POM Design Pattern
 
 
 ### Built With
@@ -107,7 +108,7 @@ npx cross-env ENV=qa npm run test:serial
 ```JS
 npx cross-env ENV=qaApi npm run test:api
 For Spotify:
-For Example: npx cross-env ENV=API npm run SpotifyFlow.test.ts
+For Example: npx cross-env ENV=API npm run SpotifyFlow.test.ts --headed
 ```
 
 7. For recording test scripts :
@@ -173,3 +174,8 @@ Username : iqra_92@hotmail.co.uk
 Password : Testing@12345
 Needed the access token of Spotify. (Postman collection is added just import it and get the token and paste on var token variable in SpotifyApiFlow.test.ts)
 
+• Create a play list named “Oyawin Songs”   (Status Pass)
+• Search for the song named “Bohemian Rhapsody” (Status Pass)
+• Add 4 random songs to the playlist (Status Pass)
+• Delete 2 random songs from playlist (Status Pass)
+• Delete playlist (Status Pass)
