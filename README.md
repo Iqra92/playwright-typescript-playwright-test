@@ -57,7 +57,7 @@ The following software are required:
 1. Clone the repo using below URL
 
 ```sh
-https://github.com/Iqra92/PlaywrightTypescriptAutomation.git
+https://github.com/Iqra92/playwright-typescript-playwright-test.git
 ```
 
 2. Navigate to folder and install npm packages using:
