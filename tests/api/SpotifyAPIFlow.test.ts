@@ -10,8 +10,8 @@ var playlistID = ''
 var uri = ''
 var snapShortID = ''
 const uriList: string[] = [];
-const clientId = "1ee7782a5dd04450ac03a44094668c3a"
-const clientSecretId = "99b5e0e3b17c48878bea4ee721497e22"
+const clientId = ""
+const clientSecretId = ""
 
 test(`@Test Cases: API Test Automation Case for Spotify`, async ({ playwright }) => {
 
